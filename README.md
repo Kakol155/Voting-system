@@ -27,9 +27,9 @@ After entering 1, enter the voting categories, then enter how many questions the
 - 2 is responsible for the procedure of answering the questions contained in the survey.
 After entering 2, files with questions will be displayed, select the file whose questions you want to answer. After entering the name of the file, the content of the file will be displayed, enter how many questions you want to answer.
 
-- 3 is responsible for the procedure for displaying all responses to the survey
+- 3 is responsible for the procedure for displaying all responses to the survey.
 
-- 4 is responsible for the reset procedureanswers provided in the survey
+- 4 is responsible for the reset procedureanswers provided in the survey.
 
 - 5 is responsible for the survey removal procedure:
 After typing 5, the files containing questions will be displayed, enter the name of the file you want to delete.
