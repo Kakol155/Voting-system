@@ -29,7 +29,7 @@ After entering 2, files with questions will be displayed, select the file whose 
 
 - 3 is responsible for the procedure for displaying all responses to the survey
 
-- 4 is responsible for the procedure for resetting survey responses
+- 4 is responsible for the reset procedureanswers provided in the survey
 
 - 5 is responsible for the survey removal procedure:
 After typing 5, the files containing questions will be displayed, enter the name of the file you want to delete.
